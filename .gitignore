@@ -1,0 +1,6 @@
+data
+images
+*.suo
+__pycache__
+*.pth
+test
